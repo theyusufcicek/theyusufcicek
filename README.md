@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Yusuf</h1>
+<h1 align="center">Hi ✋, I'm Yusuf</h1>
 <h3 align="center">Jr. Frontend Developer</h3>
 
 
-- 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT,BOOTSTRAP**
+- ☘ I’m currently learning **HTML,CSS,JAVASCRIPT,BOOTSTRAP**
 
-- 📫 How to reach me **yusufcicekks0@gmail.com**
+- 📪 How to reach me **yusufcicekks0@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
